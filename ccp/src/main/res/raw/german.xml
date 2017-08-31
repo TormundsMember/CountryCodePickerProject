@@ -203,7 +203,7 @@
             name_code="ch"
             phone_code="41"/>
         <country
-            name="Côte D &amp; apos; ivoire"
+            name="Elfenbeinküste"
             english_name="Côte D'ivoire"
             name_code="ci"
             phone_code="225"/>
@@ -563,7 +563,7 @@
             name_code="kz"
             phone_code="7"/>
         <country
-            name="Lao Menschen &amp; apos; s Demokratischen Republik"
+            name="Demokratische Volksrepublik Laos"
             english_name="Lao People's Democratic Republic"
             name_code="la"
             phone_code="856"/>
@@ -1033,8 +1033,8 @@
             name_code="tr"
             phone_code="90"/>
         <country
-            name="Trinidad &amp; Tobago"
-            english_name="Trinidad &amp; Tobago"
+            name="Trinidad & Tobago"
+            english_name="Trinidad & Tobago"
             name_code="tt"
             phone_code="1"/>
         <country
@@ -1084,7 +1084,7 @@
             phone_code="39"/>
         <country
             name="St. Vincent und die Grenadinen"
-            english_name="Saint Vincent &amp; The Grenadines"
+            english_name="Saint Vincent & The Grenadines"
             name_code="vc"
             phone_code="1"/>
         <country
